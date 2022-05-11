@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+ul a{
+    display: block;
+    padding: 15px;
+}
